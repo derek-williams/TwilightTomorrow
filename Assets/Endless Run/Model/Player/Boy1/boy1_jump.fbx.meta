@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 0a9f56b8bc9637046a1761039c3453ab
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boy1_rig_REF:BOY1_C_Head_jnt
+    100004: boy1_rig_REF:BOY1_C_Jaw_jnt
+    100006: boy1_rig_REF:BOY1_C_Neck_grp
+    100008: boy1_rig_REF:BOY1_C_Neck_jnt
+    100010: boy1_rig_REF:BOY1_C_Pelvis_grp
+    100012: boy1_rig_REF:BOY1_C_Pelvis_jnt
+    100014: boy1_rig_REF:BOY1_C_Root_jnt
+    100016: boy1_rig_REF:BOY1_C_Spine01_jnt
+    100018: boy1_rig_REF:BOY1_C_Spine02_jnt
+    100020: boy1_rig_REF:BOY1_C_Spine03_jnt
+    100022: boy1_rig_REF:BOY1_C_Spine04_jnt
+    100024: boy1_rig_REF:BOY1_C_Spine05_jnt
+    100026: boy1_rig_REF:BOY1_C_Spine06_jnt
+    100028: boy1_rig_REF:BOY1_C_Spine07_jnt
+    100030: boy1_rig_REF:BOY1_C_Spine_grp
+    100032: boy1_rig_REF:BOY1_C_Spine_Transform_grp
+    100034: boy1_rig_REF:BOY1_GEO
+    100036: boy1_rig_REF:BOY1_L_Ankle_jnt
+    100038: boy1_rig_REF:BOY1_L_Ball_jnt
+    100040: boy1_rig_REF:BOY1_L_Clavicle_jnt
+    100042: boy1_rig_REF:BOY1_L_Elbow_jnt
+    100044: boy1_rig_REF:BOY1_L_ForeArm_jnt
+    100046: boy1_rig_REF:BOY1_L_Index01_jnt
+    100048: boy1_rig_REF:BOY1_L_Index02_jnt
+    100050: boy1_rig_REF:BOY1_L_Index03_jnt
+    100052: boy1_rig_REF:BOY1_L_Knee_jnt
+    100054: boy1_rig_REF:BOY1_L_Leg_jnt
+    100056: boy1_rig_REF:BOY1_L_Middle01_jnt
+    100058: boy1_rig_REF:BOY1_L_Middle02_jnt
+    100060: boy1_rig_REF:BOY1_L_Middle03_jnt
+    100062: boy1_rig_REF:BOY1_L_Pinky01_jnt
+    100064: boy1_rig_REF:BOY1_L_Pinky02_jnt
+    100066: boy1_rig_REF:BOY1_L_Pinky03_jnt
+    100068: boy1_rig_REF:BOY1_L_Ring01_jnt
+    100070: boy1_rig_REF:BOY1_L_Ring02_jnt
+    100072: boy1_rig_REF:BOY1_L_Ring03_jnt
+    100074: boy1_rig_REF:BOY1_L_Shoulder_jnt
+    100076: boy1_rig_REF:BOY1_L_Thumb01_jnt
+    100078: boy1_rig_REF:BOY1_L_Thumb02_jnt
+    100080: boy1_rig_REF:BOY1_L_Thumb03_jnt
+    100082: boy1_rig_REF:BOY1_L_Wrist_jnt
+    100084: boy1_rig_REF:boy1_mdl_REF:boy1_GEO
+    100086: boy1_rig_REF:boy1_mdl_REF:boy1_mesh
+    100088: boy1_rig_REF:BOY1_R_Ankle_jnt
+    100090: boy1_rig_REF:BOY1_R_Ball_jnt
+    100092: boy1_rig_REF:BOY1_R_Clavicle_jnt
+    100094: boy1_rig_REF:BOY1_R_Elbow_jnt
+    100096: boy1_rig_REF:BOY1_R_ForeArm_jnt
+    100098: boy1_rig_REF:BOY1_R_Index01_jnt
+    100100: boy1_rig_REF:BOY1_R_Index02_jnt
+    100102: boy1_rig_REF:BOY1_R_Index03_jnt
+    100104: boy1_rig_REF:BOY1_R_Knee_jnt
+    100106: boy1_rig_REF:BOY1_R_Leg_jnt
+    100108: boy1_rig_REF:BOY1_R_Middle01_jnt
+    100110: boy1_rig_REF:BOY1_R_Middle02_jnt
+    100112: boy1_rig_REF:BOY1_R_Middle03_jnt
+    100114: boy1_rig_REF:BOY1_R_Pinky01_jnt
+    100116: boy1_rig_REF:BOY1_R_Pinky02_jnt
+    100118: boy1_rig_REF:BOY1_R_Pinky03_jnt
+    100120: boy1_rig_REF:BOY1_R_Ring01_jnt
+    100122: boy1_rig_REF:BOY1_R_Ring02_jnt
+    100124: boy1_rig_REF:BOY1_R_Ring03_jnt
+    100126: boy1_rig_REF:BOY1_R_Shoulder_jnt
+    100128: boy1_rig_REF:BOY1_R_Thumb01_jnt
+    100130: boy1_rig_REF:BOY1_R_Thumb02_jnt
+    100132: boy1_rig_REF:BOY1_R_Thumb03_jnt
+    100134: boy1_rig_REF:BOY1_R_Wrist_jnt
+    100136: boy1_rig_REF:BOY1_SKELETON
+    400000: //RootNode
+    400002: boy1_rig_REF:BOY1_C_Head_jnt
+    400004: boy1_rig_REF:BOY1_C_Jaw_jnt
+    400006: boy1_rig_REF:BOY1_C_Neck_grp
+    400008: boy1_rig_REF:BOY1_C_Neck_jnt
+    400010: boy1_rig_REF:BOY1_C_Pelvis_grp
+    400012: boy1_rig_REF:BOY1_C_Pelvis_jnt
+    400014: boy1_rig_REF:BOY1_C_Root_jnt
+    400016: boy1_rig_REF:BOY1_C_Spine01_jnt
+    400018: boy1_rig_REF:BOY1_C_Spine02_jnt
+    400020: boy1_rig_REF:BOY1_C_Spine03_jnt
+    400022: boy1_rig_REF:BOY1_C_Spine04_jnt
+    400024: boy1_rig_REF:BOY1_C_Spine05_jnt
+    400026: boy1_rig_REF:BOY1_C_Spine06_jnt
+    400028: boy1_rig_REF:BOY1_C_Spine07_jnt
+    400030: boy1_rig_REF:BOY1_C_Spine_grp
+    400032: boy1_rig_REF:BOY1_C_Spine_Transform_grp
+    400034: boy1_rig_REF:BOY1_GEO
+    400036: boy1_rig_REF:BOY1_L_Ankle_jnt
+    400038: boy1_rig_REF:BOY1_L_Ball_jnt
+    400040: boy1_rig_REF:BOY1_L_Clavicle_jnt
+    400042: boy1_rig_REF:BOY1_L_Elbow_jnt
+    400044: boy1_rig_REF:BOY1_L_ForeArm_jnt
+    400046: boy1_rig_REF:BOY1_L_Index01_jnt
+    400048: boy1_rig_REF:BOY1_L_Index02_jnt
+    400050: boy1_rig_REF:BOY1_L_Index03_jnt
+    400052: boy1_rig_REF:BOY1_L_Knee_jnt
+    400054: boy1_rig_REF:BOY1_L_Leg_jnt
+    400056: boy1_rig_REF:BOY1_L_Middle01_jnt
+    400058: boy1_rig_REF:BOY1_L_Middle02_jnt
+    400060: boy1_rig_REF:BOY1_L_Middle03_jnt
+    400062: boy1_rig_REF:BOY1_L_Pinky01_jnt
+    400064: boy1_rig_REF:BOY1_L_Pinky02_jnt
+    400066: boy1_rig_REF:BOY1_L_Pinky03_jnt
+    400068: boy1_rig_REF:BOY1_L_Ring01_jnt
+    400070: boy1_rig_REF:BOY1_L_Ring02_jnt
+    400072: boy1_rig_REF:BOY1_L_Ring03_jnt
+    400074: boy1_rig_REF:BOY1_L_Shoulder_jnt
+    400076: boy1_rig_REF:BOY1_L_Thumb01_jnt
+    400078: boy1_rig_REF:BOY1_L_Thumb02_jnt
+    400080: boy1_rig_REF:BOY1_L_Thumb03_jnt
+    400082: boy1_rig_REF:BOY1_L_Wrist_jnt
+    400084: boy1_rig_REF:boy1_mdl_REF:boy1_GEO
+    400086: boy1_rig_REF:boy1_mdl_REF:boy1_mesh
+    400088: boy1_rig_REF:BOY1_R_Ankle_jnt
+    400090: boy1_rig_REF:BOY1_R_Ball_jnt
+    400092: boy1_rig_REF:BOY1_R_Clavicle_jnt
+    400094: boy1_rig_REF:BOY1_R_Elbow_jnt
+    400096: boy1_rig_REF:BOY1_R_ForeArm_jnt
+    400098: boy1_rig_REF:BOY1_R_Index01_jnt
+    400100: boy1_rig_REF:BOY1_R_Index02_jnt
+    400102: boy1_rig_REF:BOY1_R_Index03_jnt
+    400104: boy1_rig_REF:BOY1_R_Knee_jnt
+    400106: boy1_rig_REF:BOY1_R_Leg_jnt
+    400108: boy1_rig_REF:BOY1_R_Middle01_jnt
+    400110: boy1_rig_REF:BOY1_R_Middle02_jnt
+    400112: boy1_rig_REF:BOY1_R_Middle03_jnt
+    400114: boy1_rig_REF:BOY1_R_Pinky01_jnt
+    400116: boy1_rig_REF:BOY1_R_Pinky02_jnt
+    400118: boy1_rig_REF:BOY1_R_Pinky03_jnt
+    400120: boy1_rig_REF:BOY1_R_Ring01_jnt
+    400122: boy1_rig_REF:BOY1_R_Ring02_jnt
+    400124: boy1_rig_REF:BOY1_R_Ring03_jnt
+    400126: boy1_rig_REF:BOY1_R_Shoulder_jnt
+    400128: boy1_rig_REF:BOY1_R_Thumb01_jnt
+    400130: boy1_rig_REF:BOY1_R_Thumb02_jnt
+    400132: boy1_rig_REF:BOY1_R_Thumb03_jnt
+    400134: boy1_rig_REF:BOY1_R_Wrist_jnt
+    400136: boy1_rig_REF:BOY1_SKELETON
+    4300000: boy1_rig_REF:boy1_mdl_REF:boy1_mesh
+    7400000: Jump
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: boy1_rig_REF:boy1_mdl_REF:boy1_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jump
+      takeName: boy1_jump_anm_002_TH
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: boy1_rig_REF:boy1_mdl_REF:boy1_GEO
+        weight: 1
+      - path: boy1_rig_REF:boy1_mdl_REF:boy1_GEO/boy1_rig_REF:BOY1_GEO
+        weight: 1
+      - path: boy1_rig_REF:boy1_mdl_REF:boy1_GEO/boy1_rig_REF:BOY1_GEO/boy1_rig_REF:boy1_mdl_REF:boy1_mesh
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Neck_grp
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Neck_grp/boy1_rig_REF:BOY1_C_Neck_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Neck_grp/boy1_rig_REF:BOY1_C_Neck_jnt/boy1_rig_REF:BOY1_C_Head_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Neck_grp/boy1_rig_REF:BOY1_C_Neck_jnt/boy1_rig_REF:BOY1_C_Head_jnt/boy1_rig_REF:BOY1_C_Jaw_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_L_Leg_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_L_Leg_jnt/boy1_rig_REF:BOY1_L_Knee_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_L_Leg_jnt/boy1_rig_REF:BOY1_L_Knee_jnt/boy1_rig_REF:BOY1_L_Ankle_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_L_Leg_jnt/boy1_rig_REF:BOY1_L_Knee_jnt/boy1_rig_REF:BOY1_L_Ankle_jnt/boy1_rig_REF:BOY1_L_Ball_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_R_Leg_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_R_Leg_jnt/boy1_rig_REF:BOY1_R_Knee_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_R_Leg_jnt/boy1_rig_REF:BOY1_R_Knee_jnt/boy1_rig_REF:BOY1_R_Ankle_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Pelvis_grp/boy1_rig_REF:BOY1_C_Pelvis_jnt/boy1_rig_REF:BOY1_R_Leg_jnt/boy1_rig_REF:BOY1_R_Knee_jnt/boy1_rig_REF:BOY1_R_Ankle_jnt/boy1_rig_REF:BOY1_R_Ball_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Index01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Index01_jnt/boy1_rig_REF:BOY1_L_Index02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Index01_jnt/boy1_rig_REF:BOY1_L_Index02_jnt/boy1_rig_REF:BOY1_L_Index03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Middle01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Middle01_jnt/boy1_rig_REF:BOY1_L_Middle02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Middle01_jnt/boy1_rig_REF:BOY1_L_Middle02_jnt/boy1_rig_REF:BOY1_L_Middle03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Pinky01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Pinky01_jnt/boy1_rig_REF:BOY1_L_Pinky02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Pinky01_jnt/boy1_rig_REF:BOY1_L_Pinky02_jnt/boy1_rig_REF:BOY1_L_Pinky03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Ring01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Ring01_jnt/boy1_rig_REF:BOY1_L_Ring02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Ring01_jnt/boy1_rig_REF:BOY1_L_Ring02_jnt/boy1_rig_REF:BOY1_L_Ring03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Thumb01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Thumb01_jnt/boy1_rig_REF:BOY1_L_Thumb02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_L_Clavicle_jnt/boy1_rig_REF:BOY1_L_Shoulder_jnt/boy1_rig_REF:BOY1_L_Elbow_jnt/boy1_rig_REF:BOY1_L_ForeArm_jnt/boy1_rig_REF:BOY1_L_Wrist_jnt/boy1_rig_REF:BOY1_L_Thumb01_jnt/boy1_rig_REF:BOY1_L_Thumb02_jnt/boy1_rig_REF:BOY1_L_Thumb03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Index01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Index01_jnt/boy1_rig_REF:BOY1_R_Index02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Index01_jnt/boy1_rig_REF:BOY1_R_Index02_jnt/boy1_rig_REF:BOY1_R_Index03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Middle01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Middle01_jnt/boy1_rig_REF:BOY1_R_Middle02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Middle01_jnt/boy1_rig_REF:BOY1_R_Middle02_jnt/boy1_rig_REF:BOY1_R_Middle03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Pinky01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Pinky01_jnt/boy1_rig_REF:BOY1_R_Pinky02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Pinky01_jnt/boy1_rig_REF:BOY1_R_Pinky02_jnt/boy1_rig_REF:BOY1_R_Pinky03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Ring01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Ring01_jnt/boy1_rig_REF:BOY1_R_Ring02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Ring01_jnt/boy1_rig_REF:BOY1_R_Ring02_jnt/boy1_rig_REF:BOY1_R_Ring03_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Thumb01_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Thumb01_jnt/boy1_rig_REF:BOY1_R_Thumb02_jnt
+        weight: 1
+      - path: boy1_rig_REF:BOY1_SKELETON/boy1_rig_REF:BOY1_C_Spine_grp/boy1_rig_REF:BOY1_C_Spine_Transform_grp/boy1_rig_REF:BOY1_C_Root_jnt/boy1_rig_REF:BOY1_C_Spine01_jnt/boy1_rig_REF:BOY1_C_Spine02_jnt/boy1_rig_REF:BOY1_C_Spine03_jnt/boy1_rig_REF:BOY1_C_Spine04_jnt/boy1_rig_REF:BOY1_C_Spine05_jnt/boy1_rig_REF:BOY1_C_Spine06_jnt/boy1_rig_REF:BOY1_C_Spine07_jnt/boy1_rig_REF:BOY1_R_Clavicle_jnt/boy1_rig_REF:BOY1_R_Shoulder_jnt/boy1_rig_REF:BOY1_R_Elbow_jnt/boy1_rig_REF:BOY1_R_ForeArm_jnt/boy1_rig_REF:BOY1_R_Wrist_jnt/boy1_rig_REF:BOY1_R_Thumb01_jnt/boy1_rig_REF:BOY1_R_Thumb02_jnt/boy1_rig_REF:BOY1_R_Thumb03_jnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: a6e04f680473810459e998cd959fca9c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: smoke_rigged_REF:ankle_l
+    100002: smoke_rigged_REF:ankle_r
+    100004: smoke_rigged_REF:backAnkle_l
+    100006: smoke_rigged_REF:backAnkle_r
+    100008: smoke_rigged_REF:backHip_l
+    100010: smoke_rigged_REF:backHip_r
+    100012: smoke_rigged_REF:backKnee_l
+    100014: smoke_rigged_REF:backKnee_r
+    100016: smoke_rigged_REF:backLeftBall_l1
+    100018: smoke_rigged_REF:backLeftBall_r1
+    100020: smoke_rigged_REF:backLeftFoot_l
+    100022: smoke_rigged_REF:backLeftFoot_r
+    100024: smoke_rigged_REF:backLeftToe_l
+    100026: smoke_rigged_REF:backLeftToe_l 1
+    100028: smoke_rigged_REF:backLeftToe_r
+    100030: smoke_rigged_REF:backLeftToe_r 1
+    100032: smoke_rigged_REF:backLeftToeTip_l
+    100034: smoke_rigged_REF:backLeftToeTip_l 1
+    100036: smoke_rigged_REF:backLeftToeTip_r
+    100038: smoke_rigged_REF:backLeftToeTip_r 1
+    100040: smoke_rigged_REF:backRightBall_l1
+    100042: smoke_rigged_REF:backRightBall_r1
+    100044: smoke_rigged_REF:backRightFoot_l
+    100046: smoke_rigged_REF:backRightFoot_r
+    100048: smoke_rigged_REF:backRightToe_l
+    100050: smoke_rigged_REF:backRightToe_l 1
+    100052: smoke_rigged_REF:backRightToe_r
+    100054: smoke_rigged_REF:backRightToe_r 1
+    100056: smoke_rigged_REF:backRightToeTip_l
+    100058: smoke_rigged_REF:backRightToeTip_l 1
+    100060: smoke_rigged_REF:backRightToeTip_r
+    100062: smoke_rigged_REF:backRightToeTip_r 1
+    100064: smoke_rigged_REF:backShin_l
+    100066: smoke_rigged_REF:backShin_r
+    100068: smoke_rigged_REF:backTarsus_l
+    100070: smoke_rigged_REF:backTarsus_r
+    100072: smoke_rigged_REF:backThigh_l
+    100074: smoke_rigged_REF:backThigh_r
+    100076: smoke_rigged_REF:bn_middleBall_l1
+    100078: smoke_rigged_REF:bn_middleBall_r1
+    100080: smoke_rigged_REF:bn_pinkyBall_l1
+    100082: smoke_rigged_REF:bn_pinkyBall_r1
+    100084: smoke_rigged_REF:bn_thumbBall_l1
+    100086: smoke_rigged_REF:bn_thumbBall_r1
+    100088: smoke_rigged_REF:chest
+    100090: smoke_rigged_REF:chin
+    100092: smoke_rigged_REF:clavicle_l
+    100094: smoke_rigged_REF:clavicle_r
+    100096: smoke_rigged_REF:ctrls_joints
+    100098: smoke_rigged_REF:ear_l
+    100100: smoke_rigged_REF:ear_r
+    100102: smoke_rigged_REF:elbow_l
+    100104: smoke_rigged_REF:elbow_r
+    100106: smoke_rigged_REF:ExtraNodes_noTransform
+    100108: smoke_rigged_REF:faceShield1_lower_l
+    100110: smoke_rigged_REF:faceShield1_lower_r
+    100112: smoke_rigged_REF:faceShield1_upper_l
+    100114: smoke_rigged_REF:faceShield1_upper_r
+    100116: smoke_rigged_REF:faceShield2__lower_l
+    100118: smoke_rigged_REF:faceShield2_lower_r
+    100120: smoke_rigged_REF:faceShield2_upper_l
+    100122: smoke_rigged_REF:faceShield2_upper_r
+    100124: smoke_rigged_REF:faceShieldCenter_lower
+    100126: smoke_rigged_REF:faceShieldCenter_upper
+    100128: smoke_rigged_REF:foot_l
+    100130: smoke_rigged_REF:foot_r
+    100132: smoke_rigged_REF:forehead
+    100134: smoke_rigged_REF:frontHip_l
+    100136: smoke_rigged_REF:frontHip_r
+    100138: smoke_rigged_REF:hand_l
+    100140: smoke_rigged_REF:hand_r
+    100142: smoke_rigged_REF:head
+    100144: smoke_rigged_REF:headBottom
+    100146: smoke_rigged_REF:headTop
+    100148: smoke_rigged_REF:index1_l
+    100150: smoke_rigged_REF:index1_r
+    100152: smoke_rigged_REF:index2_l
+    100154: smoke_rigged_REF:index2_r
+    100156: smoke_rigged_REF:index3_l
+    100158: smoke_rigged_REF:index3_r
+    100160: smoke_rigged_REF:Jdrv_backLeftBall_l
+    100162: smoke_rigged_REF:Jdrv_backLeftBall_r
+    100164: smoke_rigged_REF:Jdrv_backRightBall_l
+    100166: smoke_rigged_REF:Jdrv_backRightBall_r
+    100168: smoke_rigged_REF:Jdrv_middleBall_l
+    100170: smoke_rigged_REF:Jdrv_middleBall_r
+    100172: smoke_rigged_REF:Jdrv_pinkyBall_l
+    100174: smoke_rigged_REF:Jdrv_pinkyBall_r
+    100176: smoke_rigged_REF:Jdrv_thumbBall_l
+    100178: smoke_rigged_REF:Jdrv_thumbBall_r
+    100180: smoke_rigged_REF:joints
+    100182: smoke_rigged_REF:knee_l
+    100184: smoke_rigged_REF:knee_r
+    100186: smoke_rigged_REF:mesh
+    100188: smoke_rigged_REF:middle1_l
+    100190: smoke_rigged_REF:middle1_r
+    100192: smoke_rigged_REF:middle2_l
+    100194: smoke_rigged_REF:middle2_r
+    100196: smoke_rigged_REF:middle3_l
+    100198: smoke_rigged_REF:middle3_r
+    100200: smoke_rigged_REF:middleToe2_l
+    100202: smoke_rigged_REF:middleToe2_l 1
+    100204: smoke_rigged_REF:middleToe2_r
+    100206: smoke_rigged_REF:middleToe2_r 1
+    100208: smoke_rigged_REF:middleToeTip_l
+    100210: smoke_rigged_REF:middleToeTip_l 1
+    100212: smoke_rigged_REF:middleToeTip_r
+    100214: smoke_rigged_REF:middleToeTip_r 1
+    100216: smoke_rigged_REF:neck
+    100218: smoke_rigged_REF:pinky1_l
+    100220: smoke_rigged_REF:pinky1_r
+    100222: smoke_rigged_REF:pinky2_l
+    100224: smoke_rigged_REF:pinky2_r
+    100226: smoke_rigged_REF:pinky3_l
+    100228: smoke_rigged_REF:pinky3_r
+    100230: smoke_rigged_REF:pinkyToe2_l
+    100232: smoke_rigged_REF:pinkyToe2_l 1
+    100234: smoke_rigged_REF:pinkyToe2_r
+    100236: smoke_rigged_REF:pinkyToe2_r 1
+    100238: smoke_rigged_REF:pinkyToeTip_l
+    100240: smoke_rigged_REF:pinkyToeTip_l 1
+    100242: smoke_rigged_REF:pinkyToeTip_r
+    100244: smoke_rigged_REF:pinkyToeTip_r 1
+    100246: smoke_rigged_REF:root
+    100248: smoke_rigged_REF:shin_l
+    100250: smoke_rigged_REF:shin_r
+    100252: smoke_rigged_REF:shinLower_l
+    100254: smoke_rigged_REF:shinLower_r
+    100256: smoke_rigged_REF:shooulder_l
+    100258: smoke_rigged_REF:shoulder_r
+    100260: smoke_rigged_REF:smokeM_geo
+    100262: smoke_rigged_REF:spine
+    100264: smoke_rigged_REF:temple_l
+    100266: smoke_rigged_REF:temple_r
+    100268: smoke_rigged_REF:thigh_l
+    100270: smoke_rigged_REF:thigh_r
+    100272: smoke_rigged_REF:throat
+    100274: smoke_rigged_REF:thumb1_l
+    100276: smoke_rigged_REF:thumb1_r
+    100278: smoke_rigged_REF:thumb2_l
+    100280: smoke_rigged_REF:thumb2_r
+    100282: smoke_rigged_REF:thumb3_l
+    100284: smoke_rigged_REF:thumb3_r
+    100286: smoke_rigged_REF:thumbToe2_l
+    100288: smoke_rigged_REF:thumbToe2_l 1
+    100290: smoke_rigged_REF:thumbToe2_r
+    100292: smoke_rigged_REF:thumbToe2_r 1
+    100294: smoke_rigged_REF:thumbToeTip_l
+    100296: smoke_rigged_REF:thumbToeTip_l 1
+    100298: smoke_rigged_REF:thumbToeTip_r
+    100300: smoke_rigged_REF:thumbToeTip_r 1
+    100302: smoke_rigged_REF:WORLD_ctrl
+    100304: smoke_rigged_REF:wrist_l
+    100306: smoke_rigged_REF:wrist_r
+    100308: //RootNode
+    400000: smoke_rigged_REF:ankle_l
+    400002: smoke_rigged_REF:ankle_r
+    400004: smoke_rigged_REF:backAnkle_l
+    400006: smoke_rigged_REF:backAnkle_r
+    400008: smoke_rigged_REF:backHip_l
+    400010: smoke_rigged_REF:backHip_r
+    400012: smoke_rigged_REF:backKnee_l
+    400014: smoke_rigged_REF:backKnee_r
+    400016: smoke_rigged_REF:backLeftBall_l1
+    400018: smoke_rigged_REF:backLeftBall_r1
+    400020: smoke_rigged_REF:backLeftFoot_l
+    400022: smoke_rigged_REF:backLeftFoot_r
+    400024: smoke_rigged_REF:backLeftToe_l
+    400026: smoke_rigged_REF:backLeftToe_l 1
+    400028: smoke_rigged_REF:backLeftToe_r
+    400030: smoke_rigged_REF:backLeftToe_r 1
+    400032: smoke_rigged_REF:backLeftToeTip_l
+    400034: smoke_rigged_REF:backLeftToeTip_l 1
+    400036: smoke_rigged_REF:backLeftToeTip_r
+    400038: smoke_rigged_REF:backLeftToeTip_r 1
+    400040: smoke_rigged_REF:backRightBall_l1
+    400042: smoke_rigged_REF:backRightBall_r1
+    400044: smoke_rigged_REF:backRightFoot_l
+    400046: smoke_rigged_REF:backRightFoot_r
+    400048: smoke_rigged_REF:backRightToe_l
+    400050: smoke_rigged_REF:backRightToe_l 1
+    400052: smoke_rigged_REF:backRightToe_r
+    400054: smoke_rigged_REF:backRightToe_r 1
+    400056: smoke_rigged_REF:backRightToeTip_l
+    400058: smoke_rigged_REF:backRightToeTip_l 1
+    400060: smoke_rigged_REF:backRightToeTip_r
+    400062: smoke_rigged_REF:backRightToeTip_r 1
+    400064: smoke_rigged_REF:backShin_l
+    400066: smoke_rigged_REF:backShin_r
+    400068: smoke_rigged_REF:backTarsus_l
+    400070: smoke_rigged_REF:backTarsus_r
+    400072: smoke_rigged_REF:backThigh_l
+    400074: smoke_rigged_REF:backThigh_r
+    400076: smoke_rigged_REF:bn_middleBall_l1
+    400078: smoke_rigged_REF:bn_middleBall_r1
+    400080: smoke_rigged_REF:bn_pinkyBall_l1
+    400082: smoke_rigged_REF:bn_pinkyBall_r1
+    400084: smoke_rigged_REF:bn_thumbBall_l1
+    400086: smoke_rigged_REF:bn_thumbBall_r1
+    400088: smoke_rigged_REF:chest
+    400090: smoke_rigged_REF:chin
+    400092: smoke_rigged_REF:clavicle_l
+    400094: smoke_rigged_REF:clavicle_r
+    400096: smoke_rigged_REF:ctrls_joints
+    400098: smoke_rigged_REF:ear_l
+    400100: smoke_rigged_REF:ear_r
+    400102: smoke_rigged_REF:elbow_l
+    400104: smoke_rigged_REF:elbow_r
+    400106: smoke_rigged_REF:ExtraNodes_noTransform
+    400108: smoke_rigged_REF:faceShield1_lower_l
+    400110: smoke_rigged_REF:faceShield1_lower_r
+    400112: smoke_rigged_REF:faceShield1_upper_l
+    400114: smoke_rigged_REF:faceShield1_upper_r
+    400116: smoke_rigged_REF:faceShield2__lower_l
+    400118: smoke_rigged_REF:faceShield2_lower_r
+    400120: smoke_rigged_REF:faceShield2_upper_l
+    400122: smoke_rigged_REF:faceShield2_upper_r
+    400124: smoke_rigged_REF:faceShieldCenter_lower
+    400126: smoke_rigged_REF:faceShieldCenter_upper
+    400128: smoke_rigged_REF:foot_l
+    400130: smoke_rigged_REF:foot_r
+    400132: smoke_rigged_REF:forehead
+    400134: smoke_rigged_REF:frontHip_l
+    400136: smoke_rigged_REF:frontHip_r
+    400138: smoke_rigged_REF:hand_l
+    400140: smoke_rigged_REF:hand_r
+    400142: smoke_rigged_REF:head
+    400144: smoke_rigged_REF:headBottom
+    400146: smoke_rigged_REF:headTop
+    400148: smoke_rigged_REF:index1_l
+    400150: smoke_rigged_REF:index1_r
+    400152: smoke_rigged_REF:index2_l
+    400154: smoke_rigged_REF:index2_r
+    400156: smoke_rigged_REF:index3_l
+    400158: smoke_rigged_REF:index3_r
+    400160: smoke_rigged_REF:Jdrv_backLeftBall_l
+    400162: smoke_rigged_REF:Jdrv_backLeftBall_r
+    400164: smoke_rigged_REF:Jdrv_backRightBall_l
+    400166: smoke_rigged_REF:Jdrv_backRightBall_r
+    400168: smoke_rigged_REF:Jdrv_middleBall_l
+    400170: smoke_rigged_REF:Jdrv_middleBall_r
+    400172: smoke_rigged_REF:Jdrv_pinkyBall_l
+    400174: smoke_rigged_REF:Jdrv_pinkyBall_r
+    400176: smoke_rigged_REF:Jdrv_thumbBall_l
+    400178: smoke_rigged_REF:Jdrv_thumbBall_r
+    400180: smoke_rigged_REF:joints
+    400182: smoke_rigged_REF:knee_l
+    400184: smoke_rigged_REF:knee_r
+    400186: smoke_rigged_REF:mesh
+    400188: smoke_rigged_REF:middle1_l
+    400190: smoke_rigged_REF:middle1_r
+    400192: smoke_rigged_REF:middle2_l
+    400194: smoke_rigged_REF:middle2_r
+    400196: smoke_rigged_REF:middle3_l
+    400198: smoke_rigged_REF:middle3_r
+    400200: smoke_rigged_REF:middleToe2_l
+    400202: smoke_rigged_REF:middleToe2_l 1
+    400204: smoke_rigged_REF:middleToe2_r
+    400206: smoke_rigged_REF:middleToe2_r 1
+    400208: smoke_rigged_REF:middleToeTip_l
+    400210: smoke_rigged_REF:middleToeTip_l 1
+    400212: smoke_rigged_REF:middleToeTip_r
+    400214: smoke_rigged_REF:middleToeTip_r 1
+    400216: smoke_rigged_REF:neck
+    400218: smoke_rigged_REF:pinky1_l
+    400220: smoke_rigged_REF:pinky1_r
+    400222: smoke_rigged_REF:pinky2_l
+    400224: smoke_rigged_REF:pinky2_r
+    400226: smoke_rigged_REF:pinky3_l
+    400228: smoke_rigged_REF:pinky3_r
+    400230: smoke_rigged_REF:pinkyToe2_l
+    400232: smoke_rigged_REF:pinkyToe2_l 1
+    400234: smoke_rigged_REF:pinkyToe2_r
+    400236: smoke_rigged_REF:pinkyToe2_r 1
+    400238: smoke_rigged_REF:pinkyToeTip_l
+    400240: smoke_rigged_REF:pinkyToeTip_l 1
+    400242: smoke_rigged_REF:pinkyToeTip_r
+    400244: smoke_rigged_REF:pinkyToeTip_r 1
+    400246: smoke_rigged_REF:root
+    400248: smoke_rigged_REF:shin_l
+    400250: smoke_rigged_REF:shin_r
+    400252: smoke_rigged_REF:shinLower_l
+    400254: smoke_rigged_REF:shinLower_r
+    400256: smoke_rigged_REF:shooulder_l
+    400258: smoke_rigged_REF:shoulder_r
+    400260: smoke_rigged_REF:smokeM_geo
+    400262: smoke_rigged_REF:spine
+    400264: smoke_rigged_REF:temple_l
+    400266: smoke_rigged_REF:temple_r
+    400268: smoke_rigged_REF:thigh_l
+    400270: smoke_rigged_REF:thigh_r
+    400272: smoke_rigged_REF:throat
+    400274: smoke_rigged_REF:thumb1_l
+    400276: smoke_rigged_REF:thumb1_r
+    400278: smoke_rigged_REF:thumb2_l
+    400280: smoke_rigged_REF:thumb2_r
+    400282: smoke_rigged_REF:thumb3_l
+    400284: smoke_rigged_REF:thumb3_r
+    400286: smoke_rigged_REF:thumbToe2_l
+    400288: smoke_rigged_REF:thumbToe2_l 1
+    400290: smoke_rigged_REF:thumbToe2_r
+    400292: smoke_rigged_REF:thumbToe2_r 1
+    400294: smoke_rigged_REF:thumbToeTip_l
+    400296: smoke_rigged_REF:thumbToeTip_l 1
+    400298: smoke_rigged_REF:thumbToeTip_r
+    400300: smoke_rigged_REF:thumbToeTip_r 1
+    400302: smoke_rigged_REF:WORLD_ctrl
+    400304: smoke_rigged_REF:wrist_l
+    400306: smoke_rigged_REF:wrist_r
+    400308: //RootNode
+    2300000: smoke_rigged_REF:smokeM_geo
+    3300000: smoke_rigged_REF:smokeM_geo
+    4300000: smoke_rigged_REF:smokeM_geo
+    7400000: smoke_run_anm_003_TH
+    7400002: smoke_run_anm_003_TH //// smoke_rigged_REF:SMOKE
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: smoke_rigged_REF:ankle_l
+    11100004: smoke_rigged_REF:ankle_r
+    11100006: smoke_rigged_REF:backAnkle_l
+    11100008: smoke_rigged_REF:backAnkle_r
+    11100010: smoke_rigged_REF:backHip_l
+    11100012: smoke_rigged_REF:backHip_r
+    11100014: smoke_rigged_REF:backKnee_l
+    11100016: smoke_rigged_REF:backKnee_r
+    11100018: smoke_rigged_REF:backLeftBall_l1
+    11100020: smoke_rigged_REF:backLeftBall_r1
+    11100022: smoke_rigged_REF:backLeftFoot_l
+    11100024: smoke_rigged_REF:backLeftFoot_r
+    11100026: smoke_rigged_REF:backLeftToe_l
+    11100028: smoke_rigged_REF:backLeftToe_l 1
+    11100030: smoke_rigged_REF:backLeftToe_r
+    11100032: smoke_rigged_REF:backLeftToe_r 1
+    11100034: smoke_rigged_REF:backLeftToeTip_l
+    11100036: smoke_rigged_REF:backLeftToeTip_l 1
+    11100038: smoke_rigged_REF:backLeftToeTip_r
+    11100040: smoke_rigged_REF:backLeftToeTip_r 1
+    11100042: smoke_rigged_REF:backRightBall_l1
+    11100044: smoke_rigged_REF:backRightBall_r1
+    11100046: smoke_rigged_REF:backRightFoot_l
+    11100048: smoke_rigged_REF:backRightFoot_r
+    11100050: smoke_rigged_REF:backRightToe_l
+    11100052: smoke_rigged_REF:backRightToe_l 1
+    11100054: smoke_rigged_REF:backRightToe_r
+    11100056: smoke_rigged_REF:backRightToe_r 1
+    11100058: smoke_rigged_REF:backRightToeTip_l
+    11100060: smoke_rigged_REF:backRightToeTip_l 1
+    11100062: smoke_rigged_REF:backRightToeTip_r
+    11100064: smoke_rigged_REF:backRightToeTip_r 1
+    11100066: smoke_rigged_REF:backShin_l
+    11100068: smoke_rigged_REF:backShin_r
+    11100070: smoke_rigged_REF:backTarsus_l
+    11100072: smoke_rigged_REF:backTarsus_r
+    11100074: smoke_rigged_REF:backThigh_l
+    11100076: smoke_rigged_REF:backThigh_r
+    11100078: smoke_rigged_REF:bn_middleBall_l1
+    11100080: smoke_rigged_REF:bn_middleBall_r1
+    11100082: smoke_rigged_REF:bn_pinkyBall_l1
+    11100084: smoke_rigged_REF:bn_pinkyBall_r1
+    11100086: smoke_rigged_REF:bn_thumbBall_l1
+    11100088: smoke_rigged_REF:bn_thumbBall_r1
+    11100090: smoke_rigged_REF:chest
+    11100092: smoke_rigged_REF:chin
+    11100094: smoke_rigged_REF:clavicle_l
+    11100096: smoke_rigged_REF:clavicle_r
+    11100098: smoke_rigged_REF:ctrls_joints
+    11100100: smoke_rigged_REF:ear_l
+    11100102: smoke_rigged_REF:ear_r
+    11100104: smoke_rigged_REF:elbow_l
+    11100106: smoke_rigged_REF:elbow_r
+    11100108: smoke_rigged_REF:ExtraNodes_noTransform
+    11100110: smoke_rigged_REF:faceShield1_lower_l
+    11100112: smoke_rigged_REF:faceShield1_lower_r
+    11100114: smoke_rigged_REF:faceShield1_upper_l
+    11100116: smoke_rigged_REF:faceShield1_upper_r
+    11100118: smoke_rigged_REF:faceShield2__lower_l
+    11100120: smoke_rigged_REF:faceShield2_lower_r
+    11100122: smoke_rigged_REF:faceShield2_upper_l
+    11100124: smoke_rigged_REF:faceShield2_upper_r
+    11100126: smoke_rigged_REF:faceShieldCenter_lower
+    11100128: smoke_rigged_REF:faceShieldCenter_upper
+    11100130: smoke_rigged_REF:foot_l
+    11100132: smoke_rigged_REF:foot_r
+    11100134: smoke_rigged_REF:forehead
+    11100136: smoke_rigged_REF:frontHip_l
+    11100138: smoke_rigged_REF:frontHip_r
+    11100140: smoke_rigged_REF:hand_l
+    11100142: smoke_rigged_REF:hand_r
+    11100144: smoke_rigged_REF:head
+    11100146: smoke_rigged_REF:headBottom
+    11100148: smoke_rigged_REF:headTop
+    11100150: smoke_rigged_REF:index1_l
+    11100152: smoke_rigged_REF:index1_r
+    11100154: smoke_rigged_REF:index2_l
+    11100156: smoke_rigged_REF:index2_r
+    11100158: smoke_rigged_REF:index3_l
+    11100160: smoke_rigged_REF:index3_r
+    11100162: smoke_rigged_REF:Jdrv_backLeftBall_l
+    11100164: smoke_rigged_REF:Jdrv_backLeftBall_r
+    11100166: smoke_rigged_REF:Jdrv_backRightBall_l
+    11100168: smoke_rigged_REF:Jdrv_backRightBall_r
+    11100170: smoke_rigged_REF:Jdrv_middleBall_l
+    11100172: smoke_rigged_REF:Jdrv_middleBall_r
+    11100174: smoke_rigged_REF:Jdrv_pinkyBall_l
+    11100176: smoke_rigged_REF:Jdrv_pinkyBall_r
+    11100178: smoke_rigged_REF:Jdrv_thumbBall_l
+    11100180: smoke_rigged_REF:Jdrv_thumbBall_r
+    11100182: smoke_rigged_REF:joints
+    11100184: smoke_rigged_REF:knee_l
+    11100186: smoke_rigged_REF:knee_r
+    11100188: smoke_rigged_REF:mesh
+    11100190: smoke_rigged_REF:middle1_l
+    11100192: smoke_rigged_REF:middle1_r
+    11100194: smoke_rigged_REF:middle2_l
+    11100196: smoke_rigged_REF:middle2_r
+    11100198: smoke_rigged_REF:middle3_l
+    11100200: smoke_rigged_REF:middle3_r
+    11100202: smoke_rigged_REF:middleToe2_l
+    11100204: smoke_rigged_REF:middleToe2_l 1
+    11100206: smoke_rigged_REF:middleToe2_r
+    11100208: smoke_rigged_REF:middleToe2_r 1
+    11100210: smoke_rigged_REF:middleToeTip_l
+    11100212: smoke_rigged_REF:middleToeTip_l 1
+    11100214: smoke_rigged_REF:middleToeTip_r
+    11100216: smoke_rigged_REF:middleToeTip_r 1
+    11100218: smoke_rigged_REF:neck
+    11100220: smoke_rigged_REF:pinky1_l
+    11100222: smoke_rigged_REF:pinky1_r
+    11100224: smoke_rigged_REF:pinky2_l
+    11100226: smoke_rigged_REF:pinky2_r
+    11100228: smoke_rigged_REF:pinky3_l
+    11100230: smoke_rigged_REF:pinky3_r
+    11100232: smoke_rigged_REF:pinkyToe2_l
+    11100234: smoke_rigged_REF:pinkyToe2_l 1
+    11100236: smoke_rigged_REF:pinkyToe2_r
+    11100238: smoke_rigged_REF:pinkyToe2_r 1
+    11100240: smoke_rigged_REF:pinkyToeTip_l
+    11100242: smoke_rigged_REF:pinkyToeTip_l 1
+    11100244: smoke_rigged_REF:pinkyToeTip_r
+    11100246: smoke_rigged_REF:pinkyToeTip_r 1
+    11100248: smoke_rigged_REF:root
+    11100250: smoke_rigged_REF:shin_l
+    11100252: smoke_rigged_REF:shin_r
+    11100254: smoke_rigged_REF:shinLower_l
+    11100256: smoke_rigged_REF:shinLower_r
+    11100258: smoke_rigged_REF:shooulder_l
+    11100260: smoke_rigged_REF:shoulder_r
+    11100262: smoke_rigged_REF:smokeM_geo
+    11100264: smoke_rigged_REF:spine
+    11100266: smoke_rigged_REF:temple_l
+    11100268: smoke_rigged_REF:temple_r
+    11100270: smoke_rigged_REF:thigh_l
+    11100272: smoke_rigged_REF:thigh_r
+    11100274: smoke_rigged_REF:throat
+    11100276: smoke_rigged_REF:thumb1_l
+    11100278: smoke_rigged_REF:thumb1_r
+    11100280: smoke_rigged_REF:thumb2_l
+    11100282: smoke_rigged_REF:thumb2_r
+    11100284: smoke_rigged_REF:thumb3_l
+    11100286: smoke_rigged_REF:thumb3_r
+    11100288: smoke_rigged_REF:thumbToe2_l
+    11100290: smoke_rigged_REF:thumbToe2_l 1
+    11100292: smoke_rigged_REF:thumbToe2_r
+    11100294: smoke_rigged_REF:thumbToe2_r 1
+    11100296: smoke_rigged_REF:thumbToeTip_l
+    11100298: smoke_rigged_REF:thumbToeTip_l 1
+    11100300: smoke_rigged_REF:thumbToeTip_r
+    11100302: smoke_rigged_REF:thumbToeTip_r 1
+    11100304: smoke_rigged_REF:WORLD_ctrl
+    11100306: smoke_rigged_REF:wrist_l
+    11100308: smoke_rigged_REF:wrist_r
+    13700000: smoke_rigged_REF:smokeM_geo
+    13700002: smoke_rigged_REF:root
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: smoke_run_anm_003_TH
+      takeName: smoke_run_anm_003_TH
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l/smoke_rigged_REF:backLeftBall_l1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l/smoke_rigged_REF:backLeftBall_l1/smoke_rigged_REF:backLeftToe_l
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l/smoke_rigged_REF:backLeftBall_l1/smoke_rigged_REF:backLeftToe_l
+          1/smoke_rigged_REF:backLeftToeTip_l 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l/smoke_rigged_REF:backLeftToe_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backLeftFoot_l/smoke_rigged_REF:Jdrv_backLeftBall_l/smoke_rigged_REF:backLeftToe_l/smoke_rigged_REF:backLeftToeTip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l/smoke_rigged_REF:backRightBall_l1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l/smoke_rigged_REF:backRightBall_l1/smoke_rigged_REF:backRightToe_l
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l/smoke_rigged_REF:backRightBall_l1/smoke_rigged_REF:backRightToe_l
+          1/smoke_rigged_REF:backRightToeTip_l 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l/smoke_rigged_REF:backRightToe_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_l/smoke_rigged_REF:backThigh_l/smoke_rigged_REF:backKnee_l/smoke_rigged_REF:backTarsus_l/smoke_rigged_REF:backShin_l/smoke_rigged_REF:backAnkle_l/smoke_rigged_REF:backRightFoot_l/smoke_rigged_REF:Jdrv_backRightBall_l/smoke_rigged_REF:backRightToe_l/smoke_rigged_REF:backRightToeTip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r/smoke_rigged_REF:backLeftBall_r1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r/smoke_rigged_REF:backLeftBall_r1/smoke_rigged_REF:backLeftToe_r
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r/smoke_rigged_REF:backLeftBall_r1/smoke_rigged_REF:backLeftToe_r
+          1/smoke_rigged_REF:backLeftToeTip_r 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r/smoke_rigged_REF:backLeftToe_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backLeftFoot_r/smoke_rigged_REF:Jdrv_backLeftBall_r/smoke_rigged_REF:backLeftToe_r/smoke_rigged_REF:backLeftToeTip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r/smoke_rigged_REF:backRightBall_r1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r/smoke_rigged_REF:backRightBall_r1/smoke_rigged_REF:backRightToe_r
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r/smoke_rigged_REF:backRightBall_r1/smoke_rigged_REF:backRightToe_r
+          1/smoke_rigged_REF:backRightToeTip_r 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r/smoke_rigged_REF:backRightToe_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:backHip_r/smoke_rigged_REF:backThigh_r/smoke_rigged_REF:backKnee_r/smoke_rigged_REF:backTarsus_r/smoke_rigged_REF:backShin_r/smoke_rigged_REF:backAnkle_r/smoke_rigged_REF:backRightFoot_r/smoke_rigged_REF:Jdrv_backRightBall_r/smoke_rigged_REF:backRightToe_r/smoke_rigged_REF:backRightToeTip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l/smoke_rigged_REF:bn_middleBall_l1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l/smoke_rigged_REF:bn_middleBall_l1/smoke_rigged_REF:middleToe2_l
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l/smoke_rigged_REF:bn_middleBall_l1/smoke_rigged_REF:middleToe2_l
+          1/smoke_rigged_REF:middleToeTip_l 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l/smoke_rigged_REF:middleToe2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_middleBall_l/smoke_rigged_REF:middleToe2_l/smoke_rigged_REF:middleToeTip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l/smoke_rigged_REF:bn_pinkyBall_l1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l/smoke_rigged_REF:bn_pinkyBall_l1/smoke_rigged_REF:pinkyToe2_l
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l/smoke_rigged_REF:bn_pinkyBall_l1/smoke_rigged_REF:pinkyToe2_l
+          1/smoke_rigged_REF:pinkyToeTip_l 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l/smoke_rigged_REF:pinkyToe2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_pinkyBall_l/smoke_rigged_REF:pinkyToe2_l/smoke_rigged_REF:pinkyToeTip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l/smoke_rigged_REF:bn_thumbBall_l1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l/smoke_rigged_REF:bn_thumbBall_l1/smoke_rigged_REF:thumbToe2_l
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l/smoke_rigged_REF:bn_thumbBall_l1/smoke_rigged_REF:thumbToe2_l
+          1/smoke_rigged_REF:thumbToeTip_l 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l/smoke_rigged_REF:thumbToe2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_l/smoke_rigged_REF:thigh_l/smoke_rigged_REF:knee_l/smoke_rigged_REF:shin_l/smoke_rigged_REF:shinLower_l/smoke_rigged_REF:ankle_l/smoke_rigged_REF:foot_l/smoke_rigged_REF:Jdrv_thumbBall_l/smoke_rigged_REF:thumbToe2_l/smoke_rigged_REF:thumbToeTip_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r/smoke_rigged_REF:bn_middleBall_r1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r/smoke_rigged_REF:bn_middleBall_r1/smoke_rigged_REF:middleToe2_r
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r/smoke_rigged_REF:bn_middleBall_r1/smoke_rigged_REF:middleToe2_r
+          1/smoke_rigged_REF:middleToeTip_r 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r/smoke_rigged_REF:middleToe2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_middleBall_r/smoke_rigged_REF:middleToe2_r/smoke_rigged_REF:middleToeTip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r/smoke_rigged_REF:bn_pinkyBall_r1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r/smoke_rigged_REF:bn_pinkyBall_r1/smoke_rigged_REF:pinkyToe2_r
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r/smoke_rigged_REF:bn_pinkyBall_r1/smoke_rigged_REF:pinkyToe2_r
+          1/smoke_rigged_REF:pinkyToeTip_r 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r/smoke_rigged_REF:pinkyToe2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_pinkyBall_r/smoke_rigged_REF:pinkyToe2_r/smoke_rigged_REF:pinkyToeTip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r/smoke_rigged_REF:bn_thumbBall_r1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r/smoke_rigged_REF:bn_thumbBall_r1/smoke_rigged_REF:thumbToe2_r
+          1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r/smoke_rigged_REF:bn_thumbBall_r1/smoke_rigged_REF:thumbToe2_r
+          1/smoke_rigged_REF:thumbToeTip_r 1
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r/smoke_rigged_REF:thumbToe2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:frontHip_r/smoke_rigged_REF:thigh_r/smoke_rigged_REF:knee_r/smoke_rigged_REF:shin_r/smoke_rigged_REF:shinLower_r/smoke_rigged_REF:ankle_r/smoke_rigged_REF:foot_r/smoke_rigged_REF:Jdrv_thumbBall_r/smoke_rigged_REF:thumbToe2_r/smoke_rigged_REF:thumbToeTip_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:index3_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:index3_l/smoke_rigged_REF:index2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:index3_l/smoke_rigged_REF:index2_l/smoke_rigged_REF:index1_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:middle3_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:middle3_l/smoke_rigged_REF:middle2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:middle3_l/smoke_rigged_REF:middle2_l/smoke_rigged_REF:middle1_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:pinky3_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:pinky3_l/smoke_rigged_REF:pinky2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:pinky3_l/smoke_rigged_REF:pinky2_l/smoke_rigged_REF:pinky1_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:thumb3_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:thumb3_l/smoke_rigged_REF:thumb2_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_l/smoke_rigged_REF:shooulder_l/smoke_rigged_REF:elbow_l/smoke_rigged_REF:wrist_l/smoke_rigged_REF:hand_l/smoke_rigged_REF:thumb3_l/smoke_rigged_REF:thumb2_l/smoke_rigged_REF:thumb1_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:index3_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:index3_r/smoke_rigged_REF:index2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:index3_r/smoke_rigged_REF:index2_r/smoke_rigged_REF:index1_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:middle3_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:middle3_r/smoke_rigged_REF:middle2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:middle3_r/smoke_rigged_REF:middle2_r/smoke_rigged_REF:middle1_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:pinky3_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:pinky3_r/smoke_rigged_REF:pinky2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:pinky3_r/smoke_rigged_REF:pinky2_r/smoke_rigged_REF:pinky1_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:thumb3_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:thumb3_r/smoke_rigged_REF:thumb2_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:clavicle_r/smoke_rigged_REF:shoulder_r/smoke_rigged_REF:elbow_r/smoke_rigged_REF:wrist_r/smoke_rigged_REF:hand_r/smoke_rigged_REF:thumb3_r/smoke_rigged_REF:thumb2_r/smoke_rigged_REF:thumb1_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_lower
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_lower/smoke_rigged_REF:faceShield2__lower_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_lower/smoke_rigged_REF:faceShield2__lower_l/smoke_rigged_REF:faceShield1_lower_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_lower/smoke_rigged_REF:faceShield2_lower_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_lower/smoke_rigged_REF:faceShield2_lower_r/smoke_rigged_REF:faceShield1_lower_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_upper
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_upper/smoke_rigged_REF:faceShield2_upper_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_upper/smoke_rigged_REF:faceShield2_upper_l/smoke_rigged_REF:faceShield1_upper_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_upper/smoke_rigged_REF:faceShield2_upper_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:faceShieldCenter_upper/smoke_rigged_REF:faceShield2_upper_r/smoke_rigged_REF:faceShield1_upper_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:headBottom
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:headBottom/smoke_rigged_REF:chin
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:headTop
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:headTop/smoke_rigged_REF:forehead
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:temple_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:temple_l/smoke_rigged_REF:ear_l
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:temple_r
+        weight: 1
+      - path: smoke_rigged_REF:ctrls_joints/smoke_rigged_REF:WORLD_ctrl/smoke_rigged_REF:joints/smoke_rigged_REF:root/smoke_rigged_REF:spine/smoke_rigged_REF:chest/smoke_rigged_REF:neck/smoke_rigged_REF:throat/smoke_rigged_REF:head/smoke_rigged_REF:temple_r/smoke_rigged_REF:ear_r
+        weight: 1
+      - path: smoke_rigged_REF:ExtraNodes_noTransform
+        weight: 1
+      - path: smoke_rigged_REF:ExtraNodes_noTransform/smoke_rigged_REF:mesh
+        weight: 1
+      - path: smoke_rigged_REF:ExtraNodes_noTransform/smoke_rigged_REF:mesh/smoke_rigged_REF:smokeM_geo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
